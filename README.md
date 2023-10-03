@@ -9,7 +9,7 @@ Ryan W. Davis
 Phone: (206) 718-0574 | Email: ryan.w.davis@wsu.edu | Linkedin N/A
 
 SUMMARY OF QUALIFICATIONS:
-● Programming languages used: Python
+Programming languages used: Python
 
 EDUCATION:
 Bachelor of Science in Cybersecurity Expected May 2027
@@ -31,6 +31,6 @@ N/A
 OTHER EXPERIENCE:
 Barista / Cashier, Starbucks, Bellevue, Washington Sep
 2022 - July 2023
-● While working as a barista I used skills like teamwork, communication.
-● Working as a barista also makes you problem solve and also makes you
+While working as a barista I used skills like teamwork, communication.
+Working as a barista also makes you problem solve and also makes you
 manage time.
